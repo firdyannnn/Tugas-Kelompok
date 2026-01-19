@@ -1,0 +1,409 @@
+TEXT;predicted_label
+Bagaimana cara mengganti kata sandi saya?;Netral
+Apakah aplikasi ini mendukung mode malam?;Netral
+Di mana saya bisa melihat riwayat pesanan?;Netral
+Berapa biaya pengiriman ke wilayah Papua?;Netral
+Apakah ada aplikasi untuk versi desktop?;Netral
+Saya ingin bertanya mengenai metode pembayaran.;Netral
+Kapan diskon besar berikutnya diadakan?;Netral
+Siapa pengembang aplikasi ini?;Netral
+Bagaimana sistem keamanan datanya?;Netral
+Bisa tolong jelaskan fitur terbaru ini?;Netral
+Daftar harga produk terbaru ada di mana?;Netral
+Apakah bisa bayar di tempat untuk area Jawa?;Netral
+Ada berapa banyak kategori produk yang tersedia?;Netral
+Tolong kirimkan panduan penggunaan lewat email.;Netral
+Saya lupa nomor pesanan saya.;Negatif
+Apakah stoknya selalu tersedia setiap hari?;Positif
+Bagaimana cara menghubungi admin lewat telepon?;Netral
+Apakah ada promo untuk hari ini?;Netral
+Bisa jelaskan syarat dan ketentuan garansi?;Netral
+Lokasi toko fisik paling dekat di mana?;Positif
+Apakah bahan ini cocok untuk kulit sensitif?;Netral
+Tersedia ukuran apa saja untuk model ini?;Netral
+Bisakah saya mengubah alamat pengiriman sekarang?;Netral
+Bagaimana cara melakukan refund?;Netral
+Apakah aplikasi ini gratis selamanya?;Netral
+Dapatkah saya menggunakan kupon dua kali?;Netral
+Berapa lama proses verifikasi akun?;Netral
+Kenapa saya tidak bisa login hari ini?;Negatif
+Bagaimana cara menghapus akun secara permanen?;Netral
+Apakah data saya aman di server?;Netral
+Apa keunggulan versi premium dibanding standar?;Netral
+Berapa kapasitas maksimal penyimpanan data?;Netral
+Bisa pakai kartu debit untuk transaksi ini?;Netral
+Daftar reseller resmi ada di mana?;Netral
+Apakah bisa dikirim ke luar negeri?;Netral
+Kapan paket saya dikirim oleh penjual?;Netral
+Bagaimana cara klaim poin hadiah?;Netral
+Apakah ada batasan usia penggunaan?;Netral
+Bisa minta foto asli produknya?;Netral
+Kenapa aplikasinya sering minta update?;Negatif
+Apa saja pilihan kurir yang tersedia?;Netral
+Bagaimana cara membatalkan langganan?;Netral
+Apakah ada tutorial video penggunaannya?;Netral
+Bisa beli dalam jumlah grosir?;Netral
+Apakah warna di foto 100% akurat?;Positif
+Bagaimana sistem pembagian komisinya?;Netral
+Siapa yang bisa saya hubungi saat darurat?;Netral
+Apakah ada kantor cabangnya di Surabaya?;Netral
+Bisa bayar pakai aplikasi dompet digital?;Netral
+Kapan rilis versi terbaru aplikasinya?;Netral
+Hari ini cuaca sangat tidak menentu di Jakarta.;Negatif
+Gunung itu terlihat sangat megah dari sini.;Positif
+Saya sedang merencanakan liburan ke Bali.;Netral
+Buku ini menceritakan tentang sejarah kuno.;Netral
+Hutan hujan tropis sangat penting bagi bumi.;Positif
+Matahari terbit tepat pukul enam pagi.;Netral
+Suara hujan membuat saya merasa tenang.;Positif
+Sungai ini mengalir sampai ke laut Jawa.;Netral
+Angin bertiup kencang sejak sore tadi.;Positif
+Langit terlihat sangat cerah hari ini.;Positif
+Taman kota sekarang sudah mulai ramai.;Netral
+Banyak orang berolahraga di hari Minggu.;Netral
+Pohon-pohon di sini sudah mulai berbuah.;Netral
+Udara di pegunungan sangat menyegarkan.;Positif
+Anak-anak sedang bermain di halaman rumah.;Netral
+Kucing itu sedang tidur di atas kursi.;Netral
+Saya suka melihat pemandangan sawah hijau.;Positif
+Burung-burung berkicau di pagi hari.;Netral
+Suhu udara hari ini mencapai 32 derajat.;Netral
+Pesisir pantai sangat indah saat sunset.;Positif
+Kita harus menjaga kebersihan lingkungan kita.;Netral
+Tanaman di pot ini perlu disiram segera.;Netral
+Bunga mawar merah sedang mekar dengan cantik.;Netral
+Jalanan di sini sedang diperbaiki pemda.;Netral
+Kopi pagi ini terasa sangat nikmat.;Positif
+Sarapan adalah waktu makan paling penting.;Positif
+Besok saya akan pergi ke perpustakaan daerah.;Netral
+Lampu jalan sudah mulai menyala.;Netral
+Trotoar ini sekarang lebih luas dari sebelumnya.;Netral
+Pasar tradisional menjual banyak sayur segar.;Netral
+Ikan di akuarium ini sangat lincah berenang.;Positif
+Air sungai ini jernih sekali warnanya.;Positif
+Banyak mobil melintas di jalan tol.;Netral
+Kereta api berangkat tepat sesuai jadwal.;Positif
+Pesawat itu sedang terbang menuju arah utara.;Netral
+Pelabuhan ini sangat sibuk di malam hari.;Positif
+Terminal bis sekarang sudah lebih rapi.;Positif
+Museum ini menyimpan banyak koleksi berharga.;Netral
+Gedung pencakar langit menghiasi pusat kota.;Netral
+Monumen nasional menjadi ikon kota ini.;Netral
+Stadion olahraga dipenuhi oleh para penonton.;Netral
+Perpustakaan ini koleksi bukunya sangat lengkap.;Positif
+Universitas ini memiliki gedung yang megah.;Netral
+Sekolah dasar di desa itu baru direnovasi.;Netral
+Puskesmas melayani warga dengan penuh kesabaran.;Positif
+Kantor pos masih melayani pengiriman surat.;Netral
+Bank buka mulai jam delapan pagi.;Netral
+Anjungan tunai mandiri tersedia di setiap sudut.;Netral
+Supermarket ini menjual produk impor.;Netral
+Toko buku selalu menjadi tempat favorit saya.;Positif
+Kedai kopi ini punya barista yang handal.;Netral
+Restoran ini menu utamanya adalah rendang.;Netral
+Warung makan di pojok jalan itu sangat murah.;Positif
+Hotel ini punya kolam renang di lantai atas.;Netral
+Apartemen ini lokasinya sangat strategis.;Positif
+Rumah sakit pusat memiliki fasilitas lengkap.;Netral
+Dokter sedang memeriksa pasien di ruangannya.;Netral
+Apotek ini buka selama dua puluh empat jam.;Netral
+Pasar malam menjual berbagai macam kuliner.;Netral
+Taman bermain sangat disukai anak kecil.;Positif
+Kebun binatang punya koleksi hewan langka.;Netral
+Candi Borobudur adalah warisan dunia.;Netral
+Danau Toba memiliki pemandangan yang eksotis.;Netral
+Air terjun ini suaranya sangat keras.;Positif
+Goa ini gelap namun sangat menakjubkan.;Positif
+Pulau Komodo dihuni oleh hewan purba.;Netral
+Hutan pinus ini cocok untuk tempat berkemah.;Netral
+Sawah terasering terlihat sangat artistik.;Positif
+Petani sedang menanam padi di sawah.;Netral
+Nelayan berangkat melaut saat malam hari.;Netral
+Pasar ikan menyediakan banyak hasil laut.;Netral
+Tukang kebun sedang memotong rumput.;Netral
+Polisi sedang mengatur lalu lintas di simpang.;Netral
+Pemadam kebakaran bersiaga di kantornya.;Netral
+Tentara menjaga kedaulatan negara kita.;Netral
+Satpam berjaga di depan pintu masuk.;Netral
+Kurir sedang mengantarkan paket ke rumah.;Netral
+Supir bis mengemudi dengan sangat hati-hati.;Positif
+Pilot mempersiapkan pesawat sebelum terbang.;Netral
+Nahkoda kapal mengarahkan kapal ke dermaga.;Netral
+Masinis mengoperasikan kereta api listrik.;Netral
+Pramugari melayani penumpang dengan ramah.;Netral
+Pelayan restoran mencatat pesanan pelanggan.;Netral
+Kasir menghitung total belanjaan saya.;Netral
+Penjahit sedang membuat pola baju baru.;Netral
+Tukang bangunan menyusun batu bata.;Netral
+Arsitek sedang menggambar desain gedung.;Netral
+Insinyur memeriksa mesin di pabrik.;Netral
+Programmer sedang menulis baris kode program.;Netral
+Desainer grafis membuat logo perusahaan.;Netral
+Penulis sedang menyelesaikan naskah bukunya.;Netral
+Wartawan meliput berita di lapangan.;Netral
+Guru sedang mengajar di dalam kelas.;Netral
+Dosen memberikan kuliah di aula besar.;Netral
+Kecerdasan buatan berkembang sangat pesat.;Positif
+Jaringan 5G mulai diterapkan secara merata.;Netral
+Smartphone lipat menjadi tren teknologi baru.;Netral
+Laptop dengan prosesor terbaru sangat kencang.;Positif
+Virtual reality memberikan pengalaman unik.;Netral
+Blockchain bisa digunakan untuk banyak hal.;Netral
+Internet of things menghubungkan peralatan rumah.;Netral
+Robotika membantu industri manufaktur.;Netral
+Kendaraan listrik lebih ramah terhadap lingkungan.;Positif
+Energi surya menjadi sumber listrik alternatif.;Netral
+Cloud computing memudahkan penyimpanan data.;Netral
+Cyber security sangat penting di era digital.;Positif
+Data science membantu pengambilan keputusan.;Netral
+Machine learning bisa memprediksi masa depan.;Netral
+Deep learning meniru cara kerja otak manusia.;Netral
+Metaverse menjadi ruang diskusi yang menarik.;Positif
+NFT memberikan hak milik digital yang sah.;Netral
+E-wallet memudahkan proses transaksi harian.;Netral
+Streaming video menggantikan televisi kabel.;Netral
+Podcast menjadi media informasi baru.;Netral
+Media sosial menghubungkan orang di dunia.;Netral
+E-commerce mengubah cara kita berbelanja.;Netral
+Fintech memberikan solusi keuangan modern.;Netral
+Edutech membantu proses belajar mengajar.;Netral
+Healthtech memudahkan konsultasi dengan dokter.;Netral
+Agrotech meningkatkan produktivitas petani.;Netral
+Smart city menggunakan teknologi untuk warga.;Netral
+Smart home membuat hidup lebih praktis.;Positif
+Drones digunakan untuk pengiriman barang.;Netral
+3D printing bisa mencetak berbagai benda.;Netral
+Biotechnology menghasilkan obat-obatan baru.;Netral
+Nanotechnology bekerja pada skala atom.;Netral
+Quantum computing memiliki kecepatan luar biasa.;Netral
+SpaceX berencana mengirim orang ke Mars.;Netral
+Satelit membantu komunikasi di seluruh bumi.;Netral
+Teleskop Hubble melihat galaksi yang jauh.;Negatif
+Rover di Mars sedang mencari tanda kehidupan.;Netral
+Stasiun luar angkasa mengorbit bumi kita.;Netral
+Astronot berlatih keras sebelum ke luar angkasa.;Netral
+Roket diluncurkan dari pusat antariksa.;Netral
+Baterai lithium digunakan di hampir semua gadget.;Netral
+Layar OLED memberikan warna yang lebih tajam.;Positif
+Kamera mirrorless lebih ringan dari DSLR.;Netral
+Smartwatch bisa memantau detak jantung.;Netral
+Wireless charging menghilangkan keribetan kabel.;Negatif
+Earbuds bluetooth sangat praktis dibawa.;Positif
+Power bank menjadi penyelamat saat bepergian.;Negatif
+Hard disk eksternal menyimpan banyak film.;Netral
+SSD jauh lebih cepat dibanding HDD biasa.;Negatif
+Router wifi memberikan koneksi internet rumah.;Netral
+Modem USB bisa dibawa kemana-mana.;Netral
+Printer inkjet bisa mencetak foto berkualitas.;Netral
+Scanner digunakan untuk digitalisasi dokumen.;Netral
+Keyboard mekanik sangat disukai gamer.;Positif
+Mouse gaming punya sensitivitas yang tinggi.;Netral
+Monitor curved memberikan efek imersif.;Netral
+Speaker aktif menghasilkan suara yang mantap.;Positif
+Headset gaming punya mikrofon yang jernih.;Netral
+Webcam digunakan untuk rapat daring.;Netral
+Microphone kondenser bagus untuk rekaman.;Positif
+Joystick digunakan untuk bermain game pesawat.;Netral
+Racing wheel membuat game balap terasa nyata.;Positif
+Konsol game terbaru grafisnya sangat indah.;Positif
+Handheld console bisa dimainkan di perjalanan.;Netral
+PC gaming punya spesifikasi yang sangat tinggi.;Positif
+Server rak digunakan oleh perusahaan besar.;Netral
+Mainboard menghubungkan semua komponen PC.;Netral
+VGA card menentukan performa grafis komputer.;Netral
+RAM yang besar membuat multitasking lancar.;Positif
+Cooling system menjaga suhu komponen tetap dingin.;Netral
+Power supply memberikan daya ke seluruh sistem.;Netral
+Casing PC punya desain yang beragam.;Netral
+Sistem operasi Windows banyak digunakan.;Netral
+Linux adalah sistem operasi open source.;Netral
+MacOS dikenal dengan tampilannya yang elegan.;Netral
+Android adalah sistem operasi mobile populer.;Netral
+iOS eksklusif hanya untuk produk Apple.;Netral
+Browser Chrome sangat cepat menjelajah web.;Positif
+Firefox adalah alternatif browser yang bagus.;Netral
+Microsoft Edge sekarang berbasis Chromium.;Netral
+Safari adalah browser bawaan perangkat Mac.;Netral
+Opera punya fitur VPN bawaan gratis.;Netral
+Antivirus melindungi komputer dari malware.;Netral
+Firewall menjaga keamanan jaringan internal.;Netral
+Encryption mengamankan pesan agar tidak dibaca.;Negatif
+VPN menyembunyikan alamat IP asli kita.;Netral
+Cookie digunakan untuk menyimpan preferensi user.;Netral
+Cache mempercepat loading halaman website.;Netral
+API memungkinkan dua aplikasi berkomunikasi.;Netral
+Database menyimpan data secara terstruktur.;Netral
+Framework mempercepat proses pembuatan web.;Netral
+Library menyediakan fungsi-fungsi siap pakai.;Netral
+Compiler mengubah kode menjadi bahasa mesin.;Netral
+Debugger membantu mencari kesalahan kode.;Negatif
+Version control mengelola perubahan kode.;Netral
+Deployment merilis aplikasi ke server.;Netral
+Hosting adalah tempat menyimpan file website.;Netral
+Domain adalah alamat unik sebuah website.;Netral
+SSL sertifikat mengamankan transaksi web.;Netral
+CMS memudahkan pembuatan konten website.;Netral
+LMS digunakan untuk kelas online sekolah.;Netral
+CRM membantu mengelola data pelanggan.;Netral
+Saya suka minum teh hijau tanpa gula.;Netral
+Olahraga lari membuat jantung lebih sehat.;Positif
+Yoga membantu menenangkan pikiran dan tubuh.;Positif
+Membaca buku adalah jendela dunia.;Netral
+Menonton film di bioskop punya sensasi beda.;Netral
+Mendengarkan musik jazz sangat merilekskan.;Positif
+Bermain alat musik gitar itu sangat asyik.;Positif
+Memasak masakan sendiri jauh lebih hemat.;Negatif
+Berkebun di halaman rumah sangat menyenangkan.;Positif
+Fotografi adalah hobi yang menangkap momen.;Netral
+Traveling ke tempat baru memperluas wawasan.;Netral
+Camping di hutan pinus terasa sangat damai.;Positif
+Mendaki gunung melatih kesabaran dan fisik.;Netral
+Berenang di laut biru sangat menyegarkan.;Positif
+Surfing menantang adrenalin di tengah ombak.;Positif
+Skateboarding butuh keseimbangan yang baik.;Netral
+Bermain sepak bola adalah olahraga tim.;Netral
+Basket membutuhkan koordinasi mata dan tangan.;Netral
+Bulutangkis sangat populer di Indonesia.;Positif
+Tenis lapangan adalah olahraga yang elegan.;Netral
+Catur mengasah strategi dan kemampuan otak.;Netral
+Video game bisa menjadi media belajar juga.;Netral
+Menggambar ilustrasi digital butuh kreativitas.;Netral
+Menulis jurnal harian membantu refleksi diri.;Netral
+Meditasi rutin bisa mengurangi tingkat stres.;Netral
+Tidur yang cukup penting untuk kesehatan.;Positif
+Minum air putih minimal dua liter sehari.;Netral
+Makan sayuran hijau kaya akan serat.;Netral
+Buah-buahan mengandung banyak vitamin alami.;Netral
+Menjaga pola makan itu investasi masa depan.;Netral
+Pakaian warna pastel sedang menjadi tren.;Netral
+Gaya minimalis membuat hidup lebih simpel.;Positif
+Dekorasi rumah gaya scandinavian sangat hits.;Positif
+Tanaman indoor mempercantik ruang tamu.;Netral
+Nasi goreng adalah makanan favorit sejuta umat.;Netral
+Sate ayam bumbu kacang rasanya juara.;Positif
+Soto Lamongan punya kuah yang sangat segar.;Positif
+Bakso urat rasanya sangat gurih dan nikmat.;Positif
+Gado-gado adalah salad khas Indonesia.;Netral
+Pempek Palembang punya cuka yang pedas.;Netral
+Rendang daging sapi bumbunya sangat meresap.;Positif
+Gudeg Jogja rasanya manis dan otentik.;Positif
+Mie Aceh punya rempah yang sangat kuat.;Positif
+Ayam Betutu khas Bali sangat pedas nikmat.;Positif
+Papeda adalah makanan pokok daerah timur.;Netral
+Es teler sangat cocok dinikmati saat panas.;Positif
+Kopi luwak adalah kopi termahal di dunia.;Netral
+Teh tarik punya rasa yang sangat unik.;Positif
+Jus alpukat dengan coklat sangat menggoda.;Positif
+Martabak manis topping keju coklat wijen.;Netral
+Pisang goreng kipas renyah sekali teksturnya.;Positif
+Klepon adalah jajanan pasar yang pecah di mulut.;Negatif
+Lapis legit butuh ketelatenan saat membuatnya.;Netral
+Bika Ambon punya tekstur yang berserat.;Netral
+Rujak buah bumbu kacang sangat menyegarkan.;Positif
+Seblak Bandung pedasnya bikin ketagihan.;Positif
+Cimol dan cilok adalah jajanan favorit sd.;Netral
+Batagor ikan tenggiri bumbunya mantap.;Positif
+Kerak telor adalah makanan khas Betawi.;Netral
+Es pisang ijo sangat enak untuk berbuka.;Positif
+Tahu bulat digoreng dadakan lima ratusan.;Negatif
+Nasi uduk harum santan dan bawang goreng.;Positif
+Bubur ayam diaduk atau tidak tetap enak.;Negatif
+Ketoprak bumbu kacangnya sangat kental.;Positif
+Lontong sayur menu sarapan yang mengenyangkan.;Positif
+Rawon dengan kuah hitam yang khas.;Netral
+Opor ayam selalu ada saat hari raya.;Positif
+Kue kering nastar favorit saat Lebaran.;Netral
+Kastengel keju sangat gurih dan renyah.;Positif
+Putri salju manis dingin di lidah.;Positif
+Lidah kucing bentuknya tipis dan garing.;Negatif
+Semprit bunga cantik warnanya kuning.;Netral
+Kue talam punya tekstur lembut dan kenyal.;Positif
+Kue cucur manis gula merah dan berserat.;Netral
+Onde-onde isi kacang hijau tabur wijen.;Netral
+Nagarsari isi pisang dibungkus daun pisang.;Netral
+Lemper ayam camilan yang sangat padat.;Positif
+Risoles ragout ayam atau isi mayonaise.;Netral
+Pastel goreng isi sayur dan telur.;Netral
+Tahu isi pedas atau tahu jeletot.;Negatif
+Bakwan sayur garing dimakan pakai cabe.;Negatif
+Tempe mendoan hangat bumbu kecap pedas.;Netral
+Pisang coklat lumer saat digigit panas.;Positif
+Kebab daging sapi dengan sayur segar.;Netral
+Burger dengan daging patty yang juicy.;Positif
+Pizza topping pepperoni dan keju mozarella.;Positif
+Spaghetti bolognese bumbu tomat yang asam.;Positif
+Fettuccine carbonara saus putih yang creamy.;Positif
+Lasagna lapisan pasta dengan daging cincang.;Netral
+Steak daging wagyu tingkat kematangan medium.;Netral
+Sushi salmon dengan wasabi yang menyengat.;Negatif
+Ramen kuah kaldu tulang yang sangat gurih.;Positif
+Takoyaki isi gurita tabur katsuobushi.;Negatif
+Okonomiyaki martabak ala jepang yang besar.;Positif
+Bibimbap nasi campur korea yang sehat.;Positif
+Tteokbokki kue beras saus gochujang pedas.;Negatif
+Bulgogi daging iris tipis bumbu manis.;Netral
+Kimchi sawi putih yang difermentasi.;Netral
+Pad thai mie goreng khas Thailand.;Netral
+Tom yum kuah asam pedas dengan udang.;Positif
+Mango sticky rice pencuci mulut yang manis.;Positif
+Croissant roti prancis yang berlapis-lapis.;Netral
+Macaroon kue kecil warna-warni yang imut.;Positif
+Cheesecake tekstur lembut keju yang terasa.;Positif
+Tiramisu aroma kopi dan taburan coklat.;Netral
+Pancake dengan sirup maple dan mentega.;Netral
+Waffle renyah dengan es krim di atasnya.;Positif
+Gelato es krim ala italia yang padat.;Positif
+Sorbet buah dingin tanpa campuran susu.;Netral
+Smoothies bowl dengan topping granola.;Netral
+Matcha latte rasa teh hijau yang pekat.;Positif
+Hot chocolate di malam hari yang dingin.;Negatif
+Cappuccino dengan foam susu yang tebal.;Netral
+Espresso shot kopi kecil yang sangat pahit.;Negatif
+Latte art gambar di atas kopi yang indah.;Positif
+Americano kopi hitam tanpa gula dan susu.;Negatif
+Mochaccino perpaduan kopi dan coklat.;Netral
+Iced coffee gula aren sedang sangat viral.;Positif
+Infused water dengan irisan lemon dan mint.;Netral
+Lemon tea segar diminum saat siang terik.;Netral
+Yoghurt drink baik untuk pencernaan tubuh.;Netral
+Milkshake strawberry rasa susu yang kental.;Positif
+Soda gembira campuran susu dan sirup merah.;Netral
+Es kelapa muda langsung dari batoknya.;Netral
+Cendol dawet gula merah dan santan gurih.;Positif
+Es doger dengan pacar cina dan tape.;Negatif
+Bandrek minuman hangat jahe dan rempah.;Netral
+Bajigur minuman santan dan gula aren.;Netral
+Wedang ronde bola-bola ketan isi kacang.;Netral
+Wedang jahe menghangatkan badan saat hujan.;Positif
+Susu jahe enak diminum sebelum tidur.;Positif
+Kunyit asam jamu tradisional yang segar.;Netral
+Beras kencur jamu untuk stamina tubuh.;Netral
+Teh botol kemasan praktis dibawa-bawa.;Netral
+Air mineral kemasan gelas atau botol.;Netral
+Sirup melon dicampur air es segar.;Netral
+Es batu kristal lebih jernih dan bersih.;Positif
+Garam laut punya rasa asin yang berbeda.;Netral
+Gula pasir putih atau gula merah coklat.;Netral
+Minyak goreng kelapa atau minyak zaitun.;Netral
+Tepung terigu protein tinggi untuk roti.;Netral
+Mentega atau margarin untuk bahan kue.;Netral
+Susu kental manis untuk topping makanan.;Netral
+Keju cheddar parut atau keju lembaran.;Netral
+Coklat batang yang dilelehkan untuk saus.;Netral
+Selai kacang atau selai buah strawberry.;Netral
+Madu alami sebagai pemanis yang sehat.;Netral
+Saus sambal pedas atau saus tomat.;Netral
+Kecap manis kedelai hitam pilihan.;Netral
+Cuka apel untuk campuran salad buah.;Netral
+Bawang merah dan bawang putih ditumis.;Netral
+Cabai rawit kecil tapi sangat pedas.;Positif
+Merica bubuk menambah rasa hangat masakan.;Positif
+Ketumbar bubuk untuk bumbu ayam goreng.;Netral
+Kunir bubuk pemberi warna kuning alami.;Netral
+Jahe diparut untuk bumbu masak ikan.;Netral
+Lengkuas digeprek untuk aroma masakan.;Netral
+Sereh diikat untuk pengharum kuah soto.;Netral
+Daun salam dan daun jeruk purut.;Netral
+Kayu manis untuk aroma kue yang wangi.;Positif
+Cengkeh rempah asli dari Maluku.;Netral
+Bunga lawang bumbu rahasia masakan gulai.;Netral
